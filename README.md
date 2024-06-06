@@ -28,7 +28,7 @@ Breakdown of codes:
 
 
 4) main figure data analysis and visualization:
-	- The directory contains python codes for data visualization and statistics of sub components of main manuscript figures. Each subdirectory has been labelled appropriately to describe the figure it is referenced to. For Figure 2, which is missing in the main directory, please refer to "calcium signaling model" directory"
+	- The directory contains python codes for data visualization and statistics of sub components of main manuscript figures. Each subdirectory has been labelled appropriately to describe the figure it is referenced to. For Figure 2, please refer to "calcium signaling model" directory.
 
 
 5) neighborhood_quantification_pipeline:
